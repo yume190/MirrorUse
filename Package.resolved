@@ -1,0 +1,15 @@
+{
+  "originHash" : "4ff89fcbdf299ee7f14c05f14744cb055f6a18965dc4ef4babc6c3fc39a5de5b",
+  "pins" : [
+    {
+      "identity" : "mirrorprebuilt",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yume190/MirrorOrigin",
+      "state" : {
+        "revision" : "48b574a8c6cd4f0abcf072955bfbb68dc1938d87",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
